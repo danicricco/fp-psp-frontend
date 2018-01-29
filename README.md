@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/FundacionParaguaya/fp-psp-frontend.svg?branch=master)](https://travis-ci.org/FundacionParaguaya/fp-psp-frontend)
 
+Un cambio que no se va a integrar
+
 # Poverty Stoplight
 
 Fundación Paraguaya (FP from now on) has developed a methodology called “Poverty Stoplight”. The Poverty Stoplight seeks to eliminate the multidimensional poverty that affects many families. It allows families to trace their own poverty map and develop and implement a clear plan to overcome it.
